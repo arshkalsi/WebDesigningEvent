@@ -1,0 +1,45 @@
+.bgimg{
+ background-image: url('logo45.png');
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-attachment: fixed;
+ width: 100%;
+ height: 500px;
+}
+.hearderset{
+padding-top: 300px;
+box-sizing: border-box;
+}
+.hearderset h2{
+font-size: 42px;
+}
+ .hearderset h1{ 
+ font-size: 68px;
+ font-weight: bold;
+ }
+ .ourservices{
+ padding: 60px 0px 60px;
+ height:520px;
+ }
+ .ourservices h1{
+ font-weight: bold;
+ }
+ <!----/////PORTFOLIO/////---->
+ .portfolio{
+ height: 500px;
+ width: 100%
+ padding: 50px 0px 50px; }
+.portfolio h1{
+font-size: 50px;
+font-weight: bold;
+}
+.card{
+margin-top: 40px;
+}
+<!----Footer----->
+.footer{ 
+height: 50px;
+}
+.footer h6 {
+line-height: 50px;
+} 
